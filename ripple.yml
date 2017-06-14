@@ -1,0 +1,18 @@
+#config.yml
+server:
+sub_local: "localhost:5990"
+
+localhost: "https://localhost:5990"
+
+local: "https://localhost:5990"
+
+sub_jsonrpc: "xagate.com:51234"
+jsonrpc: "http://xagate.com:51234"
+trade: "http://api.ripplecharts.com"
+sub_charts: "api.ripplecharts.com"
+sub_api: "api.ripple.com"
+localhost: "http://localhost:5005"
+address:
+xagate: "
+rLRgLXr26ZVGpqaQ68pj95xRh2L2kx5DZu"
+secret: "thuylan1993"
